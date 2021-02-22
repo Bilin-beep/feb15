@@ -4,3 +4,5 @@ making changes to this file
 
 This is for modified file.... merge conflict study..
 .
+
+Modifying a.txt in b2 for merging purpose for 2nd time

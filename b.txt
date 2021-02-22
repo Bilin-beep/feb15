@@ -1,1 +1,4 @@
 This 2nd file
+
+
+modifying b.txt in b2 for merging purpose 
