@@ -2,5 +2,7 @@ This is first file git
 
 making changes to this file
 
-
 modified a.txt file on master for merge conflicts
+=======
+This is for modified file.... merge conflict study..
+.
