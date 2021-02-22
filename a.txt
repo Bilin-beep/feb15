@@ -7,5 +7,6 @@ modified a.txt file on master for merge conflicts
 This is for modified file.... merge conflict study..
 .
 
-
 modifying a.txt on master for 2nd time
+=======
+Modifying a.txt in b2 for merging purpose for 2nd time
