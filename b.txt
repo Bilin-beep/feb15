@@ -4,3 +4,5 @@ modifying b.txt on master for merge conflicts
 =======
 
 modifying b.txt in b2 for merging purpose 
+
+changing to study poll scm technique in jenkins
